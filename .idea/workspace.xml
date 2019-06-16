@@ -6,9 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23805197-4896-40df-b3a4-9b1b1c06aae0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="23805197-4896-40df-b3a4-9b1b1c06aae0" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/Webinterface[Bungeecord]/target/" />
     <ignored path="$PROJECT_DIR$/Webinterface[Spigot]/target/" />
@@ -64,7 +62,7 @@
         <entry file="file://$PROJECT_DIR$/Webinterface[Bungeecord]/src/main/java/de/chrxssxdev/bungeeweb/commands/AccountCommand.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="243">
-              <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+              <caret line="40" column="105" selection-start-line="40" selection-start-column="105" selection-end-line="40" selection-end-column="105" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -236,7 +234,7 @@
       <workItem from="1559675289034" duration="3654000" />
       <workItem from="1559778978226" duration="3460000" />
       <workItem from="1559816844975" duration="10755000" />
-      <workItem from="1560713467484" duration="2023000" />
+      <workItem from="1560713467484" duration="2238000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1560714026166</created>
@@ -249,10 +247,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23712000" />
+    <option name="totallyTimeSpent" value="23927000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12287712" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -269,10 +268,10 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4995005" weight="0.32954547" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" sideWeight="0.499001" visible="true" weight="0.32954547" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="11" sideWeight="0.5004995" side_tool="true" visible="true" weight="0.32954547" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.500999" side_tool="true" visible="true" weight="0.32954547" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3264463" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -391,7 +390,7 @@
     <entry file="file://$PROJECT_DIR$/Webinterface[Bungeecord]/src/main/java/de/chrxssxdev/bungeeweb/commands/AccountCommand.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
-          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+          <caret line="40" column="105" selection-start-line="40" selection-start-column="105" selection-end-line="40" selection-end-column="105" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

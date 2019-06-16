@@ -38,7 +38,7 @@ public class AccountCommand extends Command {
                             p.sendMessage(Strings.getPrefix() + "Das Passwort muss länger als 8 Zeichen sein.");
                         }
                         if (!(args[3].equalsIgnoreCase("admin") || args[3].equalsIgnoreCase("team"))) {
-                            p.sendMessage(Strings.getPrefix() + "Mögliche Gruppen sind: §cAdmin§7, §bTeam asd");
+                            p.sendMessage(Strings.getPrefix() + "Mögliche Gruppen sind: §cAdmin§7, §bTeam");
                         }
 
                         if (AccountManager.accountExists(args[1])) {

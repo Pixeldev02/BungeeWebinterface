@@ -1,0 +1,4 @@
+# git ignore
+.xml
+.iml
+.idea
